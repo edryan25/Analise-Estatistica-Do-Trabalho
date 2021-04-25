@@ -17,6 +17,9 @@ A nova gripe que cresceu muito nos últimos anos, tem trazido muitas mudanças p
 
 [Repositório sobre analise das estatiticas sobre covid em 2019 no Rio de Janeiro](https://github.com/edryan25/COVID19_RIO_DE_JANEIRO)
 
+# User Stories
+![user](https://github.com/edryan25/Analise-Estatistica-Do-Trabalho/blob/main/Capturar.PNG)
+
 # Requisitos
 Python 3.8 +
 Pandas
