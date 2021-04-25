@@ -14,6 +14,7 @@ A nova gripe que cresceu muito nos últimos anos, tem trazido muitas mudanças p
 
 # Fonte dos dados
 http://pdet.mte.gov.br/novo-caged/novo-caged-2021/novo-caged-janeiro-2021
+https://github.com/edryan25/COVID19_RIO_DE_JANEIRO
 
 # Requisitos
 Python 3.8 +
