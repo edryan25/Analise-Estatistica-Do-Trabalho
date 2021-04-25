@@ -7,7 +7,7 @@ Faculdade de Tecnologia do Estado de São Paulo Professor Jessen Vidal
 Fernando Masanori
 
 # Membros da Equipe
-Daniel Vargas e Edryan Matheus
+Daniel Vargas Ribeiro e Edryan Matheus dos Santos Maciel
 
 # Resumo
 A nova gripe que cresceu muito nos últimos anos, tem trazido muitas mudanças para nossa sociedade dentre eles vemos como está o mercado de trabalho atualmente, está pesquisa foi feita para mostrar como estão as grandes cidades do nosso país estão em relação a empregabilidade.
