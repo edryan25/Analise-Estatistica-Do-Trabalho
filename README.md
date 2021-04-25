@@ -13,7 +13,7 @@ Daniel Vargas e Edryan Matheus
 A nova gripe que cresceu muito nos últimos anos, tem trazido muitas mudanças para nossa sociedade dentre eles vemos como está o mercado de trabalho atualmente, está pesquisa foi feita para mostrar como estão as grandes cidades do nosso país estão em relação a empregabilidade.
 
 # Fonte dos dados
-https://covid.saude.gov.br
+http://pdet.mte.gov.br/novo-caged/novo-caged-2021/novo-caged-janeiro-2021
 
 # Requisitos
 Python 3.8 +
