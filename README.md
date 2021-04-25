@@ -31,7 +31,7 @@ Podemos ver com está Analise de Dados, que em São Paulo capital tem sido a  á
 
 3. Clonar esse repositório 
 
-git clone https://github.com/DanVargaa/Analise_de_Covid_de_SP/blob/master/README.md
+git clone https://github.com/edryan25/Analise-Estatistica-Do-Trabalho.git
 
 4. Entrar na pasta do repositório (pelo cmd ou terminal) e instalar as dependências
 
