@@ -1,1 +1,42 @@
-# Analise-Estatistica-Do-Trabalho
+# Analise Estatistica do Trabalho
+
+# Instituição
+Faculdade de Tecnologia do Estado de São Paulo Professor Jessen Vidal
+
+# Professor Orientador
+Fernando Masanori
+
+# Membros da Equipe
+Daniel Vargas e Edryan Matheus
+
+# Resumo
+A nova gripe que cresceu muito nos últimos anos, tem trazido muitas mudanças para nossa sociedade dentre eles vemos como está o mercado de trabalho atualmente, está pesquisa foi feita para mostrar como estão as grandes cidades do nosso país estão em relação a empregabilidade.
+
+# Fonte dos dados
+https://covid.saude.gov.br
+
+# Requisitos
+Python 3.8 +
+Pandas
+Matplotlib
+Jupyter Notebook
+
+# Conclusão
+Podemos ver com está Analise de Dados, que em São Paulo capital tem sido a  área que mais tem mostrado números em relação a admissões e a desligamentos de pessoas tendo os desligamentos sobressalentes, já a cidade de Belo Horizonte tem sido um local que está proporcionalmente igual ambos fatores, e o Rio de Janeiro, podemos ver um número um pouco maior em questão dos desligamentos, com isso podemos ver que dentre as mudanças que estamos tendo ao redor do país e do mundo, que a quantidade de pessoas que sofrem com desligamento de seus empregos tem sido maior.
+
+# Instalação
+1. Baixar e instalar o Python 3.8.x pelo [site oficial](https://www.python.org/downloads/)
+
+2. Adicionar o python as [variáveis de ambiente](https://datatofish.com/add-python-to-windows-path/)
+
+3. Clonar esse repositório 
+
+git clone https://github.com/DanVargaa/Analise_de_Covid_de_SP/blob/master/README.md
+
+4. Entrar na pasta do repositório (pelo cmd ou terminal) e instalar as dependências
+
+pip install -r requirements.txt
+
+5. Executar o Jupyter Notebook
+
+jupyter notebook
